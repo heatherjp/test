@@ -1,3 +1,3 @@
-from .text import hello
+import text
 
 
